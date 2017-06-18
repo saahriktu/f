@@ -1,0 +1,8 @@
+F - ncurses fifteen puzzle with hexadecimal numbering (from 1 to f) and random
+puzzles. h,j,k,l controls.
+
+Controls:
+h - move tile TO EMPTY SPACE FROM left
+j - move tile TO EMPTY SPACE FROM down
+k - move tile TO EMPTY SPACE FROM up
+l - move tile TO EMPTY SPACE FROM right
